@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b6ba3686666e2523",
+        "id": "84860d283843c69c",
         "type": "tabs",
         "children": [
           {
-            "id": "e01bb306d070138a",
+            "id": "b454fdeca5c65816",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -201,6 +201,9 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "6787f84db02e7b94",
-  "lastOpenFiles": []
+  "active": "5eb29f7ad2bf11f5",
+  "lastOpenFiles": [
+    "Test Folder/Test file.md",
+    "Test Folder"
+  ]
 }
