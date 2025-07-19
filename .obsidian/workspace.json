@@ -11,13 +11,46 @@
             "id": "b454fdeca5c65816",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Test Folder/Test file.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Test file"
+            }
+          },
+          {
+            "id": "a50459732d3eb9a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Test file 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Test file 2"
+            }
+          },
+          {
+            "id": "22c1d539aa8a4ac0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Test File 3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Test File 3"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -201,8 +234,11 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "5eb29f7ad2bf11f5",
+  "active": "22c1d539aa8a4ac0",
   "lastOpenFiles": [
+    "Test file 2.md",
+    "Test File 3.md",
+    "Untitled",
     "Test Folder/Test file.md",
     "Test Folder"
   ]
