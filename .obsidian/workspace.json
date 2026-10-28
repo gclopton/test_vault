@@ -203,6 +203,26 @@
             "state": {
               "type": "smart-connections-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "c51dba27f67e8bb1",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "smart-connections",
+              "title": "Smart Connections Files"
+            }
+          },
+          {
+            "id": "b50b7a88865a68a6",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
               "icon": "smart-connections",
               "title": "Smart Connections Files"
             }
@@ -234,7 +254,7 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "22c1d539aa8a4ac0",
+  "active": "b50b7a88865a68a6",
   "lastOpenFiles": [
     "Test file 2.md",
     "Test File 3.md",
